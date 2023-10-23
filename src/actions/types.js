@@ -1,0 +1,1 @@
+export const SELECT_CAR_TYPE = 'SELECT_CAR_TYPE';
